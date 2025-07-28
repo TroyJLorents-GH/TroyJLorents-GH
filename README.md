@@ -1,4 +1,4 @@
-<h1 align="center"> Troy Lorents Profile</h1>
+<h1 align="center"> Troy Lorents</h1>
 
 # About Me:
 I am a full stack engineer and Web Application Developer at Arizona State University’s School of Computing and Augmented Intelligence (SCAI). With 7+ years of experience, I build robust, scalable applications that power workflows for higher education, HR, and research. Before ASU, I was a Software Engineer at an insurance tech company, designing solutions in fast-paced, data-driven environments.
