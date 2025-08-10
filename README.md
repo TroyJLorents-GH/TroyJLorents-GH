@@ -60,6 +60,7 @@ Languages:
 [![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?style=for-the-badge\&logo=octopusdeploy\&logoColor=white)](https://octopus.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)](https://swagger.io/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge\&logo=insomnia\&logoColor=white)](https://insomnia.rest/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e7321a6-fb12-4699-ad2d-ff40d3664996/deploy-status)](https://app.netlify.com/projects/troy-lorents-portfolio/deploys)
 
 ---
 
