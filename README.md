@@ -41,6 +41,8 @@ Languages:
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+[![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)](https://www.apollographql.com/)
 
 
 ---
@@ -60,7 +62,7 @@ Languages:
 [![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?style=for-the-badge\&logo=octopusdeploy\&logoColor=white)](https://octopus.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)](https://swagger.io/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge\&logo=insomnia\&logoColor=white)](https://insomnia.rest/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4e7321a6-fb12-4699-ad2d-ff40d3664996/deploy-status)](https://app.netlify.com/projects/troy-lorents-portfolio/deploys)
+[![Netlify](https://img.shields.io/badge/-netlify-blue?style=for-the-badge&logo=netlify&logoColor=green)](https://www.netlify.com/)
 
 ---
 
@@ -81,6 +83,7 @@ Languages:
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)](https://powerbi.microsoft.com/)
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)](https://www.splunk.com/)
 [![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge\&logo=elastic\&logoColor=white)](https://www.elastic.co/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ---
 
