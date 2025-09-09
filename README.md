@@ -17,6 +17,8 @@ I’m always exploring new ways to make technology more useful and accessible. W
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/troy-lorents/)
+[![Netlify](https://img.shields.io/netlify/4e7321a6-fb12-4699-ad2d-ff40d3664996)](https://troy-lorents-portfolio.netlify.app/)
+
 
 # Tech Stack:
 Languages:
@@ -74,6 +76,8 @@ Languages:
 [![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge\&logo=microsoft-sharepoint\&logoColor=white)](https://sharepoint.com/)
 [![Plumsail](https://img.shields.io/badge/Plumsail-FF7A59?style=for-the-badge)](https://plumsail.com/)
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-00B069?style=for-the-badge\&logo=servicenow\&logoColor=white)](https://servicenow.com/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+
 
 ---
 
